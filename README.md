@@ -1,2 +1,2 @@
 # sysprak1819-checkers
-A client to communicate and play the checkers, implemented in C.
+A client to play the game 'checkers' as command shell application implemented in C.
